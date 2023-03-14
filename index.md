@@ -10,7 +10,7 @@ This is my fourth year of the conservation biology program.
 - Basics of GitHub
 - More practice with GIS
 - Create a project that is relevant to my community
-##### **Questions** I would like to answer using **Earth Data Science**
+#### **Questions** I would like to answer using **Earth Data Science**
 - How has climate change impacted populations of traditional plants found in the Northern Great Plains?
 - What does historical data show for populations of traditional plants? Has there always been a limited abundance?
 - How important are traditional plants to the NGP ecosystem?
