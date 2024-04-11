@@ -6,7 +6,10 @@ Han Mitakiyapi, Eva Weddell emaciyapi na Rapid City ed wati. Ihanktunwan Damakot
 
 > Summer 2023 Project: [Habitat Prediction Modeling of Tinpsinla on South Dakota Reservations](https://figshare.com/articles/media/Habitat_Prediction_Modeling_of_Tinpsila_on_South_Dakota_Reservations/24143073)
 
-
+## Current Work
+- [Habitat Prediction Model Website in progress](https://evaweddell.github.io/Tinpsinla_Project/theme/index.html) 
+- Working on the second portion of the project: Habitat Suitability of Tinpsinla using Community Science
+- Graduating Spring 2024
 
 ### Questions 
 - How can I use EDS to help restore and maintain traditional plant populations throughout the Northern Great Plains?
