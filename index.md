@@ -5,7 +5,7 @@
 Han Mitakiyapi, Eva Weddell emaciyapi na Rapid City ed wati. Ihanktunwan Damakota na Wagner, SD hemantanhan. Inawaye Monica Weddell eciyapi na Unciwaye Winona Sully eciyapi. Hello relatives, my name is Eva Weddell and I live in Rapid City. I am Ihanktunwan Dakota and I am from Wagner, SD. My mom is Monica Weddell and my grandma is Winona Sully.
 
 > Summer 2023 Project: Habitat Prediction Model of Tinpsinla
-> [Video: Habitat Prediction Modeling of Tinpsinla on South Dakota Reservations](https://figshare.com/articles/media/Habitat_Prediction_Modeling_of_Tinpsila_on_South_Dakota_Reservations/24143073)
+> [Habitat Prediction Modeling of Tinpsinla on South Dakota Reservations](https://figshare.com/articles/media/Habitat_Prediction_Modeling_of_Tinpsila_on_South_Dakota_Reservations/24143073)
 
 
 
