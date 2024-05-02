@@ -1,5 +1,5 @@
-theme: minimal
-title: Eva Weddell ESIIL Stars
+theme:
+title:
 name:
 remote_theme: pages-themes/minimal@0.2.0
 plugins:
